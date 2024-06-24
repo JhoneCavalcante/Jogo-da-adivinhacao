@@ -1,2 +1,2 @@
 # Jogo da adivinhação
- Meu primeiro jogo em javascript
+ Meu primeiro jogo em JavaScript/CSS/HTML
